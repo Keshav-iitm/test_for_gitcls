@@ -13,3 +13,5 @@ A single number representing the average of the five numbers.
 ## Notes
 - You may assume exactly five numbers are provided.
 - Print the result as a floating-point value.
+
+-Modify the file named "avg.py"
